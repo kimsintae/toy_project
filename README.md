@@ -6,5 +6,5 @@
 
 |Front|Back|Database|IDE|버전관리|CI/CD|배포|퍼블리싱|
 |-----|----|--------|---|-------|-----|----|-------|
-|플로터|스프링부트(API)|테스트3|
-|------|자바11|테스트3|
+|플로터|스프링부트(API)|PostgreSQL|IntelliJ|git, github|jenkins|docker|bootstrap5
+|------|자바11|
